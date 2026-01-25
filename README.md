@@ -26,4 +26,10 @@
 | 2025 | arXiv | [Reasoning with Sampling: Your Base Model is Smarter Than You Think](https://arxiv.org/pdf/2510.14901) | [code](https://github.com/aakaran/reasoning-with-sampling), by Harvard |
 | 2025 | NeurIPS | [Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?](https://openreview.net/forum?id=4OsgYD7em5) | [code](https://github.com/LeapLabTHU/limit-of-RLVR), by THU |
 
+## Diffusion Model
+| Year | Venue | Title | Remark |
+| :--- | :---: | :--- | :---: |
+| 2026 | arXiv | [Scaling Text-to-Image Diffusion Transformers with Representation Autoencoders](https://arxiv.org/pdf/2601.16208) | [code](https://github.com/ZitengWangNYU/Scale-RAE), by Saining Xie |
+| 2025 | arXiv | [Diffusion Transformers with Representation Autoencoders (RAE)]([https://arxiv.org/pdf/2502.07374](https://arxiv.org/abs/2510.11690)) | [code](https://github.com/bytetriper/RAE), by Saining Xie |
+
 
