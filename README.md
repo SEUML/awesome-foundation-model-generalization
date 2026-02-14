@@ -14,6 +14,7 @@
 
 | Year | Venue | Title | Remark |
 | :--- | :---: | :--- | :---: |
+| 2026 | arXiv| [Model soups need only one ingredient](https://arxiv.org/pdf/2602.09689) | [code](https://github.com/alirezaabdollahpour/MonoSoup) |
 | 2025 | arXiv| [The Universal Weight Subspace Hypothesis](https://arxiv.org/pdf/2512.05117) | [code](https://toshi2k2.github.io/unisub/) |
 | 2025 | arXiv| [Souper-Model: How Simple Arithmetic Unlocks State-of-the-Art LLM Performance](https://arxiv.org/pdf/2511.13254v1) | [code](https://github.com/facebookresearch/llm_souping), by ![Meta](https://static.xx.fbcdn.net/rsrc.php/y3/r/y6QsbGgc866.svg) |
 | 2025 | arXiv| [Dynamically Scaled Activation Steering](https://arxiv.org/pdf/2512.03661) | by Apple |
