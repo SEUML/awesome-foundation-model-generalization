@@ -23,6 +23,7 @@
 ## Large Reasoning Model
 | Year | Venue | Title | Remark |
 | :--- | :---: | :--- | :---: |
+| 2026 | ICLR  | [Learning to Reason without External Rewards](https://arxiv.org/pdf/2505.19590) | [code](https://github.com/sunblaze-ucb/Intuitor), by UC Berkeley |
 | 2026 | arXiv | [Reinforcement Learning via Self-Distillation](https://arxiv.org/pdf/2601.20802) | [code](https://github.com/lasgroup/SDPO), by MIT |
 | 2025 | arXiv | [LLMs Can Easily Learn to Reason from Demonstrations Structure, not content, is what matters!](https://arxiv.org/pdf/2502.07374) | [code](https://github.com/NovaSky-AI/SkyThought), by UC Berkeley |
 | 2025 | arXiv | [Reasoning with Sampling: Your Base Model is Smarter Than You Think](https://arxiv.org/pdf/2510.14901) | [code](https://github.com/aakaran/reasoning-with-sampling), by Harvard |
