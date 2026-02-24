@@ -28,6 +28,7 @@
 | 2025 | arXiv | [LLMs Can Easily Learn to Reason from Demonstrations Structure, not content, is what matters!](https://arxiv.org/pdf/2502.07374) | [code](https://github.com/NovaSky-AI/SkyThought), by UC Berkeley |
 | 2025 | arXiv | [Reasoning with Sampling: Your Base Model is Smarter Than You Think](https://arxiv.org/pdf/2510.14901) | [code](https://github.com/aakaran/reasoning-with-sampling), by Harvard |
 | 2025 | NeurIPS | [Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?](https://openreview.net/forum?id=4OsgYD7em5) | [code](https://github.com/LeapLabTHU/limit-of-RLVR), by THU |
+| 2022 | NeurIPS | [STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning](https://openreview.net/pdf?id=_3ELRdg2sgI) | [code](https://github.com/ezelikman/STaR), by Stanford |
 
 ## Diffusion Model
 | Year | Venue | Title | Remark |
