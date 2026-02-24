@@ -6,8 +6,8 @@
 
 | Year | Venue | Title | Remark |
 | :--- | :---: | :--- | :---: |
-| 2024 | ICML    | [Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/pdf/2401.01335) | [code](https://github.com/uclaml/SPIN), by UCLA| 
 | 2025 | NeurIPS | [StelLA: Subspace Learning in Low-rank Adaptation using Stiefel Manifold](https://arxiv.org/abs/2510.01938v1) | [code](https://github.com/SonyResearch/stella) |
+| 2024 | ICML    | [Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/pdf/2401.01335) | [code](https://github.com/uclaml/SPIN), by UCLA| 
 
 
 ## Model Merging/Model Steering/Model Soup
