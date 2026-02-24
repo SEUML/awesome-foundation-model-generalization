@@ -23,6 +23,7 @@
 ## Large Reasoning Model
 | Year | Venue | Title | Remark |
 | :--- | :---: | :--- | :---: |
+| 2026 | ICLR  | [Co-rewarding: Stable Self-supervised RL for Eliciting Reasoning in Large Language Models](https://openreview.net/forum?id=fDk95XPsCU) | [code](https://github.com/tmlr-group/Co-rewarding) |
 | 2026 | ICLR  | [Learning to Reason without External Rewards](https://arxiv.org/pdf/2505.19590) | [code](https://github.com/sunblaze-ucb/Intuitor), by UC Berkeley |
 | 2026 | arXiv | [Reinforcement Learning via Self-Distillation](https://arxiv.org/pdf/2601.20802) | [code](https://github.com/lasgroup/SDPO), by MIT |
 | 2025 | arXiv | [LLMs Can Easily Learn to Reason from Demonstrations Structure, not content, is what matters!](https://arxiv.org/pdf/2502.07374) | [code](https://github.com/NovaSky-AI/SkyThought), by UC Berkeley |
