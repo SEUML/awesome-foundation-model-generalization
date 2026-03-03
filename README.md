@@ -23,7 +23,7 @@
 ## Large Reasoning Model
 | Year | Venue | Title | Remark |
 | :--- | :---: | :--- | :---: |
-| 2026 | ICLR  | [GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning](https://openreview.net/attachment?id=RQm2KQTM5r&name=pdf) | [code](openreview.net/attachment?id=RQm2KQTM5r&name=pdf), [DSPy framework](https://github.com/stanfordnlp/dspy), by UC Berkeley/MIT |
+| 2026 | ICLR  | [GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning](https://openreview.net/attachment?id=RQm2KQTM5r&name=pdf) | [code](openreview.net/attachment?id=RQm2KQTM5r&name=pdf), [DSPy framework](https://github.com/stanfordnlp/dspy), by UC Berkeley/Stanford/MIT |
 | 2026 | ICLR  | [Co-rewarding: Stable Self-supervised RL for Eliciting Reasoning in Large Language Models](https://openreview.net/forum?id=fDk95XPsCU) | [code](https://github.com/tmlr-group/Co-rewarding) |
 | 2026 | ICLR  | [Learning to Reason without External Rewards](https://arxiv.org/pdf/2505.19590) | [code](https://github.com/sunblaze-ucb/Intuitor), by UC Berkeley |
 | 2026 | arXiv | [Reinforcement Learning via Self-Distillation](https://arxiv.org/pdf/2601.20802) | [code](https://github.com/lasgroup/SDPO), by MIT |
