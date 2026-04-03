@@ -23,7 +23,7 @@
 ## Large Reasoning Model
 | Year | Venue | Title | Remark |
 | :--- | :---: | :--- | :---: |
-| 2026 | ICLR  | [Visual Planning: Let's Think Only with Images](Visual Planning: Let's Think Only with Images) | [code](https://github.com/yix8/VisualPlanning) |
+| 2026 | ICLR  | [Visual Planning: Let's Think Only with Images](https://openreview.net/forum?id=wsnse46kRO) | [code](https://github.com/yix8/VisualPlanning) |
 | 2026 | ICLR  | [LoongRL: Reinforcement Learning for Advanced Reasoning over Long Contexts](https://openreview.net/pdf?id=o29E01Q6bv) | [code](https://loongrl.github.io/) |
 | 2026 | ICLR  | [Entropy-preserving reinforcement learning](https://arxiv.org/pdf/2603.11682) | [code](), by Apple/MIT |
 | 2026 | ICLR  | [GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning](https://openreview.net/attachment?id=RQm2KQTM5r&name=pdf) | [code](openreview.net/attachment?id=RQm2KQTM5r&name=pdf), [DSPy framework](https://github.com/stanfordnlp/dspy), by UC Berkeley/Stanford/MIT |
