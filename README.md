@@ -1,5 +1,27 @@
 # awesome-foundation-model-generalization
 
+## Large Reasoning Model
+| Year | Venue | Title | Remark |
+| :--- | :---: | :--- | :---: |
+| 2026 | arXiv | [Vero: An Open RL Recipe for General Visual Reasoning](https://arxiv.org/pdf/2604.04917) | [code](https://vero-reasoning.github.io/), by Princeton |
+| 2026 | ICLR  | [Visual Planning: Let's Think Only with Images](https://openreview.net/forum?id=wsnse46kRO) | [code](https://github.com/yix8/VisualPlanning) |
+| 2026 | ICLR  | [LoongRL: Reinforcement Learning for Advanced Reasoning over Long Contexts](https://openreview.net/pdf?id=o29E01Q6bv) | [code](https://loongrl.github.io/) |
+| 2026 | ICLR  | [Entropy-preserving reinforcement learning](https://arxiv.org/pdf/2603.11682) | [code](), by Apple/MIT |
+| 2026 | ICLR  | [GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning](https://openreview.net/attachment?id=RQm2KQTM5r&name=pdf) | [code](openreview.net/attachment?id=RQm2KQTM5r&name=pdf), [DSPy framework](https://github.com/stanfordnlp/dspy), by UC Berkeley/Stanford/MIT |
+| 2026 | ICLR  | [Co-rewarding: Stable Self-supervised RL for Eliciting Reasoning in Large Language Models](https://openreview.net/forum?id=fDk95XPsCU) | [code](https://github.com/tmlr-group/Co-rewarding) |
+| 2026 | ICLR  | [Learning to Reason without External Rewards](https://arxiv.org/pdf/2505.19590) | [code](https://github.com/sunblaze-ucb/Intuitor), by UC Berkeley |
+| 2026 | arXiv | [Reinforcement Learning via Self-Distillation](https://arxiv.org/pdf/2601.20802) | [code](https://github.com/lasgroup/SDPO), by MIT |
+| 2025 | arXiv | [LLMs Can Easily Learn to Reason from Demonstrations Structure, not content, is what matters!](https://arxiv.org/pdf/2502.07374) | [code](https://github.com/NovaSky-AI/SkyThought), by UC Berkeley |
+| 2025 | NeurIPS | [Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?](https://openreview.net/forum?id=4OsgYD7em5) | [code](https://github.com/LeapLabTHU/limit-of-RLVR), by THU |
+| 2022 | NeurIPS | [STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning](https://openreview.net/pdf?id=_3ELRdg2sgI) | [code](https://github.com/ezelikman/STaR), by Stanford |
+
+
+## Large Language Model Inference
+| Year | Venue | Title | Remark |
+| :--- | :---: | :--- | :---: |
+| 2026 | arXiv | [SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding](https://d1qx31qr3h6wln.cloudfront.net/publications/SPEED_Bench_Paper.pdf) | [code](https://huggingface.co/datasets/nvidia/SPEED-Bench), by NVIDIA |
+| 2026 | ICLR  | [Reasoning with Sampling: Your Base Model is Smarter Than You Think](https://arxiv.org/pdf/2510.14901) | [code](https://github.com/aakaran/reasoning-with-sampling), by Harvard |
+| 2025 | EMNLP | [s1: Simple test-time scaling](https://aclanthology.org/2025.emnlp-main.1025.pdf) | [code](https://github.com/simplescaling/s1), by Stanford| 
 
 
 ## Parameter/Annotation -Efficient Fine-Tuning
@@ -20,20 +42,6 @@
 | 2025 | arXiv| [Dynamically Scaled Activation Steering](https://arxiv.org/pdf/2512.03661) | by Apple |
 | 2025 | CVPR | [Task Singular Vectors: Reducing Task Interference in Model Merging](https://arxiv.org/pdf/2412.00081) | [code](https://github.com/AntoAndGar/task_singular_vectors) |
 
-## Large Reasoning Model
-| Year | Venue | Title | Remark |
-| :--- | :---: | :--- | :---: |
-| 2026 | ICLR  | [Visual Planning: Let's Think Only with Images](https://openreview.net/forum?id=wsnse46kRO) | [code](https://github.com/yix8/VisualPlanning) |
-| 2026 | ICLR  | [LoongRL: Reinforcement Learning for Advanced Reasoning over Long Contexts](https://openreview.net/pdf?id=o29E01Q6bv) | [code](https://loongrl.github.io/) |
-| 2026 | ICLR  | [Entropy-preserving reinforcement learning](https://arxiv.org/pdf/2603.11682) | [code](), by Apple/MIT |
-| 2026 | ICLR  | [GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning](https://openreview.net/attachment?id=RQm2KQTM5r&name=pdf) | [code](openreview.net/attachment?id=RQm2KQTM5r&name=pdf), [DSPy framework](https://github.com/stanfordnlp/dspy), by UC Berkeley/Stanford/MIT |
-| 2026 | ICLR  | [Co-rewarding: Stable Self-supervised RL for Eliciting Reasoning in Large Language Models](https://openreview.net/forum?id=fDk95XPsCU) | [code](https://github.com/tmlr-group/Co-rewarding) |
-| 2026 | ICLR  | [Learning to Reason without External Rewards](https://arxiv.org/pdf/2505.19590) | [code](https://github.com/sunblaze-ucb/Intuitor), by UC Berkeley |
-| 2026 | arXiv | [Reinforcement Learning via Self-Distillation](https://arxiv.org/pdf/2601.20802) | [code](https://github.com/lasgroup/SDPO), by MIT |
-| 2025 | arXiv | [LLMs Can Easily Learn to Reason from Demonstrations Structure, not content, is what matters!](https://arxiv.org/pdf/2502.07374) | [code](https://github.com/NovaSky-AI/SkyThought), by UC Berkeley |
-| 2025 | arXiv | [Reasoning with Sampling: Your Base Model is Smarter Than You Think](https://arxiv.org/pdf/2510.14901) | [code](https://github.com/aakaran/reasoning-with-sampling), by Harvard |
-| 2025 | NeurIPS | [Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?](https://openreview.net/forum?id=4OsgYD7em5) | [code](https://github.com/LeapLabTHU/limit-of-RLVR), by THU |
-| 2022 | NeurIPS | [STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning](https://openreview.net/pdf?id=_3ELRdg2sgI) | [code](https://github.com/ezelikman/STaR), by Stanford |
 
 ## Diffusion Model
 | Year | Venue | Title | Remark |
