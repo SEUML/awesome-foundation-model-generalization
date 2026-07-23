@@ -13,6 +13,7 @@
 | 2026 | arXiv | [Reinforcement Learning via Self-Distillation](https://arxiv.org/pdf/2601.20802) | [code](https://github.com/lasgroup/SDPO), by MIT |
 | 2025 | arXiv | [LLMs Can Easily Learn to Reason from Demonstrations Structure, not content, is what matters!](https://arxiv.org/pdf/2502.07374) | [code](https://github.com/NovaSky-AI/SkyThought), by UC Berkeley |
 | 2025 | NeurIPS | [Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?](https://openreview.net/forum?id=4OsgYD7em5) | [code](https://github.com/LeapLabTHU/limit-of-RLVR), by THU |
+| 2025 | ICCV  | [Visual-RFT: Visual Reinforcement Fine-Tuning](https://arxiv.org/pdf/2503.01785) | [code](https://github.com/Liuziyu77/Visual-RFT) ![GitHub Stars](https://img.shields.io/github/stars/Liuziyu77/Visual-RFT), related to long-tail learning |
 | 2022 | NeurIPS | [STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning](https://openreview.net/pdf?id=_3ELRdg2sgI) | [code](https://github.com/ezelikman/STaR), by Stanford |
 
 
