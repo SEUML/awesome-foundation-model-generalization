@@ -3,6 +3,7 @@
 ## Large Reasoning Model
 | Year | Venue | Title | Remark |
 | :--- | :---: | :--- | :---: |
+| 2026 | ICML  | [Spurious Rewards: Rethinking Training Signals in RLVR](https://arxiv.org/pdf/2506.10947) | [code](https://github.com/ruixin31/Spurious_Rewards) ![GitHub Stars](https://img.shields.io/github/stars/ruixin31/Spurious_Rewards) |
 | 2026 | arXiv | [Vero: An Open RL Recipe for General Visual Reasoning](https://arxiv.org/pdf/2604.04917) | [code](https://vero-reasoning.github.io/), by Princeton |
 | 2026 | ICLR  | [Visual Planning: Let's Think Only with Images](https://openreview.net/forum?id=wsnse46kRO) | [code](https://github.com/yix8/VisualPlanning) |
 | 2026 | ICLR  | [LoongRL: Reinforcement Learning for Advanced Reasoning over Long Contexts](https://openreview.net/pdf?id=o29E01Q6bv) | [code](https://loongrl.github.io/) |
