@@ -54,6 +54,6 @@
 ## World Model
 | Year | Venue | Title | Remark |
 | :--- | :---: | :--- | :---: |
-| 2026 | arXiv | [LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels]([https://arxiv.org/pdf/2601.16208](https://arxiv.org/pdf/2603.19312v1)) | [code]([https://github.com/ruixin31/Spurious_Rewards](https://github.com/lucas-maes/le-wm)) ![GitHub Stars](https://img.shields.io/github/stars/lucas-maes/le-wm), by Yann LeCun |
+| 2026 | arXiv | [LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels](https://arxiv.org/pdf/2603.19312v1) | [code]([https://github.com/ruixin31/Spurious_Rewards](https://github.com/lucas-maes/le-wm)) ![GitHub Stars](https://img.shields.io/github/stars/lucas-maes/le-wm), by Yann LeCun |
 
 
